@@ -1,6 +1,6 @@
 # 0x11. C - printf
 
-## ALX School First Group Project.
+## ALX School First Group Project
 A custom C printf function made by Akor Sunday and Chy Ameh
 
 ### Goals
